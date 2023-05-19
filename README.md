@@ -1,4 +1,4 @@
-# Miniquoinquoin
+#  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <p style="font-size:15px"> Hey, i'm Heilmann Jonathan, i have 18 years old and i'm a french student. I'm a developer in my free time since 2020.</p>
 
@@ -20,7 +20,7 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Miniquoinquoin&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&show_icons=true&hide_border=true" alt="MiniQuoinquoin Bose's GitHub Stats">
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     <br />
