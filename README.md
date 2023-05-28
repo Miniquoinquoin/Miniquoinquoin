@@ -19,12 +19,10 @@
 ## 📈 My Stats:
 <div align="center">
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&custom_title=Miniquoinquoin&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Miniquoinquoins&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
+![Mini's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&custom_title=Miniquoinquoin&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)![Mini's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&card_width=445&theme=dark&hide_border=true#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&card_width=445&theme=default&hide_border=true#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&card_width=445&theme=dark&hide_border=true#gh-dark-mode-only)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&card_width=445&theme=default&hide_border=true#gh-light-mode-only)
 
 
 <img src="https://visitcount.itsvg.in/api?id=Miniquoinquoin&label=Profile%20Views&color=1&icon=5&pretty=true" />
