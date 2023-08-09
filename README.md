@@ -27,7 +27,7 @@
     <img src="https://visitcount.itsvg.in/api?id=Miniquoinquoin&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </div>
 
-## ⏳ My Time Spent:
+## ⏳ My Time Spent since June 2023:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Miniquoinquoin\&layout=compact" alt="MiniQuoinquoin's wakatime Stats" />
 </div>
