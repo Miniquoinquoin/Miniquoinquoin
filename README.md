@@ -29,18 +29,6 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 
-
-## 📈 My Stats:
-<div align="center">
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Miniquoinquoin&custom_title=Miniquoinquoin&show_icons=true&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="MiniQuoinquoin's GitHub Stats">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miniquoinquoin&layout=compact&count_private=true&langs_count=8&card_width=468&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true" alt="MiniQuoinquoin's GitHub Stats" />
-    </div>
-    <br />
-    <img src="https://visitcount.itsvg.in/api?id=Miniquoinquoin&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
-
 ## ⏳ My Time Spent since June 2023:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Miniquoinquoin\&layout=compact" alt="MiniQuoinquoin's wakatime Stats" />
