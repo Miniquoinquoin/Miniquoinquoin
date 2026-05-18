@@ -31,5 +31,5 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ## ⏳ My Time Spent since June 2023:
 <div align="center">
-    <figure><embed src="https://wakatime.com/share/@Miniquoinquoin/d4273bc1-e31d-456c-a1d4-09c3b80ccd9d.svg"></embed></figure>
+    <img src="https://wakatime.com/share/@Miniquoinquoin/d4273bc1-e31d-456c-a1d4-09c3b80ccd9d.svg" alt="Wakatime Stats" />
 </div>
