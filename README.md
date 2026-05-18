@@ -29,7 +29,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 
-## ⏳ My Time Spent since June 2023:
+## ⏳ Wakatime coding activity:
 <div align="center">
     <img src="https://wakatime.com/share/@Miniquoinquoin/d4273bc1-e31d-456c-a1d4-09c3b80ccd9d.svg" alt="Wakatime Stats" />
 </div>
